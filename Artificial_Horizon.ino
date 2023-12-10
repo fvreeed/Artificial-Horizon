@@ -3,7 +3,6 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_Sensor.h>
-#include "Kalman.h"
 #include "MPU6050_6Axis_MotionApps20.h"
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
