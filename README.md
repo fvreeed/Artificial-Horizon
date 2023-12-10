@@ -19,3 +19,5 @@ GND to GND
 ![image](https://github.com/fvreeed/Artificial-Horizon/assets/101432221/5372bbbf-2747-4cfe-a886-d248a0d7c5e7)
 
 More detailed information in the presentation.
+
+[Presentation on Google Drive.](https://docs.google.com/presentation/d/1WpdlEFIaDg4mekvXrJorL3YJvPd2doQe/edit?usp=sharing&ouid=113387145413853602349&rtpof=true&sd=true)
